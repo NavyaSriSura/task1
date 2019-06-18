@@ -1,0 +1,5 @@
+body {box-align: center}
+        p.one{border-style: solid; border-width: 3px ; padding : 100px;
+         align-content: center; color: lightgrey; padding: 25px;
+        }
+        div{margin:auto; width: 500px}
